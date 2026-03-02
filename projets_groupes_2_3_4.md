@@ -104,6 +104,10 @@ Chaque groupe doit :
 
 * Implémenter la partie **Authentification + Rôles**
 * Implémenter le CRUD complet des **entités métier**
+* Affectation
+  
+![Affectation](affectation.png)
+  
 
 ---
 
