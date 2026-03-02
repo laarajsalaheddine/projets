@@ -103,7 +103,7 @@ La classe est divisée en **3 groupes**.
 Chaque groupe doit :
 
 * Implémenter la partie **Authentification + Rôles**
-* Implémenter le CRUD complet de **3 entités métier maximum**
+* Implémenter le CRUD complet des **entités métier**
 
 ---
 
